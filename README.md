@@ -1,2 +1,2 @@
 # hello-word
-FingalVol demo1
+FingalVol demo2
